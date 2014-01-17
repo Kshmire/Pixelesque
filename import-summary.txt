@@ -1,0 +1,147 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* LICENSE
+* README
+* build.gradle
+* default.properties
+* dist/
+* dist/Android 4.0/
+* dist/Android 4.0/PixelArt.bar
+* dist/Android 4.0/PixelArt.lsv
+* exports/
+* exports/Pixelesque-1.0.1.apk
+* exports/Pixelesque-1.0.apk
+* exports/Pixelesque-1.1.5.apk
+* exports/Pixelesque-1.1.5final.apk
+* exports/Pixelesque-1.1.apk
+* exports/Pixelesque-1.2.1.apk
+* exports/Pixelesque-1.2.apk
+* exports/Pixelesque-1.2ALPHA.apk
+* exports/Pixelesque-rc1.apk
+* exports/Pixelesque1.1aUNSIGNED.apk
+* futureideas.txt
+* gradle/
+* gradle/wrapper/
+* gradle/wrapper/gradle-wrapper.jar
+* gradle/wrapper/gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* lint.xml
+* proguard.cfg
+* proguard/
+* proguard/dump.txt
+* proguard/mapping.txt
+* proguard/seeds.txt
+* proguard/usage.txt
+* psds/
+* psds/blockynull-small.xcf
+* psds/bottombar.xcf
+* psds/featured.png
+* psds/featured.xcf
+* psds/featured1920.png
+* psds/featured1920.xcf
+* psds/featured290.png
+* psds/icon.png
+* psds/icon114.png
+* psds/icon480.png
+* psds/icons.psd
+* psds/icons.xcf
+* psds/pixelesque.xcf
+* psds/pixelesque2.xcf
+* psds/promo.png
+* psds/promo.xcf
+* psds/topbar-hc.xcf
+* psds/topbar.xcf
+* psds/topbar2.xcf
+* screenshots/
+* screenshots/beta1.png
+* screenshots/devframe/
+* screenshots/devframe/v1.1.5-1.png
+* screenshots/devframe/v1.1.5-2.png
+* screenshots/devframe/v1.1.5-4.png
+* screenshots/rc1-1.png
+* screenshots/rc1-2.png
+* screenshots/rc1-3.png
+* screenshots/rc1-4.png
+* screenshots/rc1-5.png
+* screenshots/testing.psd
+* screenshots/v1-1.png
+* screenshots/v1-2.png
+* screenshots/v1-3.png
+* screenshots/v1-4.png
+* screenshots/v1-5.png
+* screenshots/v1-6.png
+* screenshots/v1.1.5-1.png
+* screenshots/v1.1.5-2.png
+* screenshots/v1.1.5-3.png
+* screenshots/v1.1.5-4.png
+* screenshots/v1.1.5-5.png
+* screenshots/v1.1.5-6.png
+* tests/
+* tests/back.png
+* tests/bar-medium.png
+* tests/blocky2null-small.png
+* tests/blockynull-small.png
+* tests/circle-small.png
+* tests/clear.png
+* tests/clear2.png
+* tests/color.png
+* tests/color2-small.png
+* tests/eraser.png
+* tests/export.png
+* tests/forward.png
+* tests/heart-small.png
+* tests/line-small.png
+* tests/more-small.png
+* tests/new.png
+* tests/open.png
+* tests/paint-small.png
+* tests/pen.png
+* tests/pencil.png
+* tests/pixel.png
+* tests/pixelesque-medium.png
+* tests/pixelesque2-large.png
+* tests/pointer.png
+* tests/rect-small.png
+* tests/redo -small.png
+* tests/save.png
+* tests/saveas.png
+* tests/shapes-small.png
+* tests/share.png
+* tests/test.png
+* tests/traces.txt
+* tests/undo-small.png
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* assets/ => app/src/main/assets/
+* libs/processing15.jar => app/libs/processing15.jar
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

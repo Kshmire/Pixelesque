@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/home/hugo/git/Pixelesque1/app/src/main/res/values/color.xml -->
+    <eat-comment />
+
+    <color name="hud_actionbar_background">#002222</color>
+    <color name="hud_background">#004444</color>
+    <!-- From: file:/home/hugo/git/Pixelesque1/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="about">Pixelesque is made by &lt;a href="http://rjmarsan.com">RJ Marsan&lt;/a>.  It\'s 100% ad &amp; cost free, and &lt;a href="http://github.com/rjmarsan/Pixelesque">open source&lt;/a>.</string>
+    <string name="about_button_market">Market</string>
+    <string name="about_button_ok">Ok</string>
+    <string name="about_title">About Pixelesque</string>
+    <string name="app_name">Pixelesque</string>
+    <!-- From: file:/home/hugo/git/Pixelesque1/app/src/main/res/values/colordialogcolor.xml -->
+    <eat-comment />
+
+    <string name="color_hex_invalid">Invalid color hex code!</string>
+    <string name="color_new_color">Ok</string>
+    <string name="color_old_color">Cancel</string>
+    <string name="color_select_color">Select a color</string>
+    <!-- From: file:/home/hugo/git/Pixelesque1/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="custombg_failed">Import Background Failed!</string>
+    <string name="export_button_cancel">Cancel</string>
+    <string name="export_button_other">Other</string>
+    <string name="export_size_high" formatted="false">High (%dx%d)</string>
+    <string name="export_size_low" formatted="false">Low (%dx%d)</string>
+    <string name="export_size_medium" formatted="false">Medium (%dx%d)</string>
+    <string name="export_size_original" formatted="false">Original (%dx%d)</string>
+    <string name="export_title">Export</string>
+    <string name="exportcustom_button_cancel">Cancel</string>
+    <string name="exportcustom_button_export">Export</string>
+    <string name="exportcustom_title">Pick a size to export to</string>
+    <string name="hello">Hello World, PixelArt!</string>
+    <string name="loading_text">Just a moment</string>
+    <string name="loading_title">Loading...</string>
+    <string name="menu_about">About</string>
+    <string name="menu_background">Import Background</string>
+    <string name="menu_clear">Clear</string>
+    <string name="menu_export">Export</string>
+    <string name="menu_new">New</string>
+    <string name="menu_open">Open</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_saveas">Save As</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_togglegrid">Toggle Grid</string>
+    <string name="menu_togglepreview">Toggle Preview</string>
+    <string name="new_art_title">New Pixel Art</string>
+    <string name="new_button_cancel">Cancel</string>
+    <string name="new_button_new">New</string>
+    <string name="new_title">Pick a size</string>
+    <string name="open_extras_failed">There was an error opening the image extras</string>
+    <string name="open_failed">There was an error opening the image</string>
+    <!-- From: file:/home/hugo/git/Pixelesque1/app/src/main/res/values/colordialogstrings.xml -->
+    <eat-comment />
+
+    <string name="prefOK">OK</string>
+    <!-- From: file:/home/hugo/git/Pixelesque1/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="save_failed">There was an error saving the image</string>
+    <string name="saveas_button_cancel">Cancel</string>
+    <string name="saveas_button_new">Save</string>
+    <string name="saveas_title">Save as</string>
+    <string name="saving_text">Just a moment</string>
+    <string name="saving_title">Saving...</string>
+    <string name="share_image">Share Image</string>
+    <!-- From: file:/home/hugo/git/Pixelesque1/app/src/main/res/values/style.xml -->
+    <eat-comment />
+
+    <style name="PixelesqueActionBar" parent="android:style/Widget.Holo.ActionBar">
+        <item name="android:background">@color/hud_actionbar_background</item>
+    </style>
+
+    <style name="Theme.Pixelesque" parent="android:style/Theme.Holo">
+        <item name="android:actionBarStyle">@style/PixelesqueActionBar</item>
+    </style>
+    <!-- From: file:/home/hugo/git/Pixelesque1/app/src/main/res/values/colordialogstyle.xml -->
+    <eat-comment />
+
+    <style name="myBackgroundStyle" parent="android:style/Theme.Dialog">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+</resources>

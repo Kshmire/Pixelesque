@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/hugo/git/Pixelesque1/app/src/main/res" >
+            <file
+                name="line_pressed"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-xlarge-hdpi/line_pressed.png"
+                qualifiers="xlarge-hdpi"
+                type="drawable" />
+            <file
+                name="line_selected"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-xlarge-hdpi/line_selected.png"
+                qualifiers="xlarge-hdpi"
+                type="drawable" />
+            <file
+                name="rect_pressed"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-xlarge-hdpi/rect_pressed.png"
+                qualifiers="xlarge-hdpi"
+                type="drawable" />
+            <file
+                name="eraser_selected"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-xlarge-hdpi/eraser_selected.png"
+                qualifiers="xlarge-hdpi"
+                type="drawable" />
+            <file
+                name="bucket_pressed"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-xlarge-hdpi/bucket_pressed.png"
+                qualifiers="xlarge-hdpi"
+                type="drawable" />
+            <file
+                name="more"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-xlarge-hdpi/more.png"
+                qualifiers="xlarge-hdpi"
+                type="drawable" />
+            <file
+                name="eraser_pressed"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-xlarge-hdpi/eraser_pressed.png"
+                qualifiers="xlarge-hdpi"
+                type="drawable" />
+            <file
+                name="circle_selected"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-xlarge-hdpi/circle_selected.png"
+                qualifiers="xlarge-hdpi"
+                type="drawable" />
+            <file
+                name="pencil_pressed"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-xlarge-hdpi/pencil_pressed.png"
+                qualifiers="xlarge-hdpi"
+                type="drawable" />
+            <file
+                name="circle_pressed"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-xlarge-hdpi/circle_pressed.png"
+                qualifiers="xlarge-hdpi"
+                type="drawable" />
+            <file
+                name="pencil_selected"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-xlarge-hdpi/pencil_selected.png"
+                qualifiers="xlarge-hdpi"
+                type="drawable" />
+            <file
+                name="rect_selected"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-xlarge-hdpi/rect_selected.png"
+                qualifiers="xlarge-hdpi"
+                type="drawable" />
+            <file
+                name="pen_selected"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-xlarge-hdpi/pen_selected.png"
+                qualifiers="xlarge-hdpi"
+                type="drawable" />
+            <file
+                name="bucket_selected"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-xlarge-hdpi/bucket_selected.png"
+                qualifiers="xlarge-hdpi"
+                type="drawable" />
+            <file
+                name="pen_pressed"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-xlarge-hdpi/pen_pressed.png"
+                qualifiers="xlarge-hdpi"
+                type="drawable" />
+            <file
+                name="shapes_pressed"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-xlarge-hdpi/shapes_pressed.png"
+                qualifiers="xlarge-hdpi"
+                type="drawable" />
+            <file
+                name="main"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="buttonbar"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/layout/buttonbar.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="color_historyview_item"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/layout/color_historyview_item.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="colordialog"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/layout/colordialog.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="color_rgbview"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/layout/color_rgbview.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="colordialogactivity"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/layout/colordialogactivity.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="color_historyview"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/layout/color_historyview.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="color_hexview"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/layout/color_hexview.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="number_picker"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/layout/number_picker.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="shapesmenu"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/layout/shapesmenu.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="color_hsvview"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/layout/color_hsvview.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="number_picker_pref"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/layout/number_picker_pref.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="artlistitem"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/layout/artlistitem.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="artlist"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/layout/artlist.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="actual_buttonbar"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/layout/actual_buttonbar.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="listactivity"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/layout/listactivity.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="color_colorselectview"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/layout/color_colorselectview.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="topbar"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/layout/topbar.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="buttonbar"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/layout-xlarge-land-v11/buttonbar.xml"
+                qualifiers="xlarge-land-v11"
+                type="layout" />
+            <file
+                name="colordialog"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/layout-xlarge-land-v11/colordialog.xml"
+                qualifiers="xlarge-land-v11"
+                type="layout" />
+            <file
+                name="mainmenu"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/menu-xlarge-v11/mainmenu.xml"
+                qualifiers="xlarge-v11"
+                type="menu" />
+            <file
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="custombg_failed" >Import Background Failed!
+                </string>
+                <string name="saveas_button_cancel" >Cancel
+                </string>
+                <string name="new_title" >Pick a size
+                </string>
+                <string name="exportcustom_button_cancel" >Cancel
+                </string>
+                <string name="hello" >Hello World, PixelArt!
+                </string>
+                <string name="menu_saveas" >Save As
+                </string>
+                <string name="menu_background" >Import Background
+                </string>
+                <string name="saving_title" >Saving...
+                </string>
+                <string name="export_button_other" >Other
+                </string>
+                <string name="menu_share" >Share
+                </string>
+                <string name="menu_about" >About
+                </string>
+                <string name="exportcustom_button_export" >Export
+                </string>
+                <string name="loading_title" >Loading...
+                </string>
+                <string name="export_button_cancel" >Cancel
+                </string>
+                <string name="saving_text" >Just a moment
+                </string>
+                <string
+                    name="export_size_low"
+                    formatted="false" >Low (%dx%d)
+                </string>
+                <string name="menu_clear" >Clear
+                </string>
+                <string name="about_title" >About Pixelesque
+                </string>
+                <string
+                    name="export_size_medium"
+                    formatted="false" >Medium (%dx%d)
+                </string>
+                <string name="menu_save" >Save
+                </string>
+                <string name="saveas_button_new" >Save
+                </string>
+                <string name="about" >Pixelesque is made by &lt;a href="http://rjmarsan.com">RJ Marsan&lt;/a>.  It\'s 100% ad &amp; cost free, and &lt;a href="http://github.com/rjmarsan/Pixelesque">open source&lt;/a>.
+                </string>
+                <string name="about_button_market" >Market
+                </string>
+                <string
+                    name="export_size_high"
+                    formatted="false" >High (%dx%d)
+                </string>
+                <string name="menu_export" >Export
+                </string>
+                <string name="menu_togglegrid" >Toggle Grid
+                </string>
+                <string name="share_image" >Share Image
+                </string>
+                <string name="open_extras_failed" >There was an error opening the image extras
+                </string>
+                <string name="menu_togglepreview" >Toggle Preview
+                </string>
+                <string name="loading_text" >Just a moment
+                </string>
+                <string name="new_art_title" >New Pixel Art
+                </string>
+                <string name="new_button_cancel" >Cancel
+                </string>
+                <string name="export_title" >Export
+                </string>
+                <string name="about_button_ok" >Ok
+                </string>
+                <string
+                    name="export_size_original"
+                    formatted="false" >Original (%dx%d)
+                </string>
+                <string name="menu_new" >New
+                </string>
+                <string name="saveas_title" >Save as
+                </string>
+                <string name="open_failed" >There was an error opening the image
+                </string>
+                <string name="menu_open" >Open
+                </string>
+                <string name="new_button_new" >New
+                </string>
+                <string name="app_name" >Pixelesque
+                </string>
+                <string name="save_failed" >There was an error saving the image
+                </string>
+                <string name="exportcustom_title" >Pick a size to export to
+                </string>
+            </file>
+            <file
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/values/colordialogstrings.xml"
+                qualifiers="" >
+                <string name="prefOK" >OK
+                </string>
+            </file>
+            <file
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/values/colordialogstyle.xml"
+                qualifiers="" >
+
+                <style
+                    name="myBackgroundStyle"
+                    parent="android:style/Theme.Dialog" >
+                    <item name="android:windowIsTranslucent">
+true
+                    </item>
+                    <item name="android:windowBackground">
+@android:color/transparent
+                    </item>
+                    <item name="android:windowContentOverlay">
+@null
+                    </item>
+                    <item name="android:windowNoTitle">
+true
+                    </item>
+                    <item name="android:windowIsFloating">
+true
+                    </item>
+                    <item name="android:backgroundDimEnabled">
+false
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/values/style.xml"
+                qualifiers="" >
+
+                <style
+                    name="PixelesqueActionBar"
+                    parent="android:style/Widget.Holo.ActionBar" >
+                    <item name="android:background">
+@color/hud_actionbar_background
+                    </item>
+                </style>
+
+                <style
+                    name="Theme.Pixelesque"
+                    parent="android:style/Theme.Holo" >
+                    <item name="android:actionBarStyle">
+@style/PixelesqueActionBar
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/values/color.xml"
+                qualifiers="" >
+                <color name="hud_actionbar_background" >#002222
+                </color>
+                <color name="hud_background" >#004444
+                </color>
+            </file>
+            <file
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/values/colordialogcolor.xml"
+                qualifiers="" >
+                <string name="color_select_color" >Select a color
+                </string>
+                <string name="color_hex_invalid" >Invalid color hex code!
+                </string>
+                <string name="color_new_color" >Ok
+                </string>
+                <string name="color_old_color" >Cancel
+                </string>
+            </file>
+            <file
+                name="icon"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-ldpi/icon.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="buttonbar"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/layout-v11/buttonbar.xml"
+                qualifiers="v11"
+                type="layout" />
+            <file
+                name="colordialog"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/layout-v11/colordialog.xml"
+                qualifiers="v11"
+                type="layout" />
+            <file
+                name="buttonbar"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/layout-ldpi/buttonbar.xml"
+                qualifiers="ldpi"
+                type="layout" />
+            <file
+                name="ic_menu_save"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-mdpi/ic_menu_save.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="timepicker_up_selected"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-mdpi/timepicker_up_selected.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="menunew"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-mdpi/menunew.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="timepicker_input_pressed"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-mdpi/timepicker_input_pressed.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="save"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-mdpi/save.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="timepicker_up_normal"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-mdpi/timepicker_up_normal.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_menu_add"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-mdpi/ic_menu_add.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="timepicker_down_pressed"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-mdpi/timepicker_down_pressed.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="open"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-mdpi/open.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="timepicker_down_normal"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-mdpi/timepicker_down_normal.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="timepicker_input_normal"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-mdpi/timepicker_input_normal.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_menu_upload"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-mdpi/ic_menu_upload.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_menu_close_clear_cancel"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-mdpi/ic_menu_close_clear_cancel.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_menu_share"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-mdpi/ic_menu_share.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="share"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-mdpi/share.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="timepicker_up_disabled"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-mdpi/timepicker_up_disabled.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_menu_archive"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-mdpi/ic_menu_archive.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="timepicker_up_pressed"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-mdpi/timepicker_up_pressed.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="timepicker_up_disabled_focused"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-mdpi/timepicker_up_disabled_focused.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="timepicker_down_disabled_focused"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-mdpi/timepicker_down_disabled_focused.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="timepicker_input_selected"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-mdpi/timepicker_input_selected.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="export"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-mdpi/export.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="saveas"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-mdpi/saveas.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="clear"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-mdpi/clear.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="timepicker_down_disabled"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-mdpi/timepicker_down_disabled.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="timepicker_down_selected"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-mdpi/timepicker_down_selected.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_menu_set_as"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-mdpi/ic_menu_set_as.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-mdpi/icon.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="timepicker_input_disabled"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-mdpi/timepicker_input_disabled.9.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/values-v11/colorpickerstyle.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="myBackgroundStyle"
+                    parent="android:style/Theme.Holo.Dialog" >
+                    <item name="android:windowIsTranslucent">
+true
+                    </item>
+                    <item name="android:windowBackground">
+@android:color/transparent
+                    </item>
+                    <item name="android:windowContentOverlay">
+@null
+                    </item>
+                    <item name="android:windowNoTitle">
+true
+                    </item>
+                    <item name="android:windowIsFloating">
+true
+                    </item>
+                    <item name="android:backgroundDimEnabled">
+false
+                    </item>
+                    <item name="android:popupBackground">
+@android:color/transparent
+                    </item>
+                </style>
+            </file>
+            <file
+                name="buttonbar"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/layout-land/buttonbar.xml"
+                qualifiers="land"
+                type="layout" />
+            <file
+                name="shapesmenu"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/layout-land/shapesmenu.xml"
+                qualifiers="land"
+                type="layout" />
+            <file
+                name="actual_buttonbar"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/layout-land/actual_buttonbar.xml"
+                qualifiers="land"
+                type="layout" />
+            <file
+                name="ic_menu_save"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/ic_menu_save.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="timepicker_up_selected"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/timepicker_up_selected.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="menunew"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/menunew.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="timepicker_input_pressed"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/timepicker_input_pressed.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="save"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/save.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="timepicker_up_normal"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/timepicker_up_normal.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="circle"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/circle.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_menu_add"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/ic_menu_add.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="timepicker_down_pressed"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/timepicker_down_pressed.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="forward_disabled"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/forward_disabled.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="open"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/open.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="timepicker_down_normal"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/timepicker_down_normal.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="back_pressed"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/back_pressed.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="shapes"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/shapes.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="line_pressed"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/line_pressed.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="timepicker_input_normal"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/timepicker_input_normal.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="line_selected"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/line_selected.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_menu_close_clear_cancel"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/ic_menu_close_clear_cancel.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_menu_share"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/ic_menu_share.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="share"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/share.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="line"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/line.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="timepicker_up_disabled"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/timepicker_up_disabled.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_menu_archive"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/ic_menu_archive.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="timepicker_up_pressed"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/timepicker_up_pressed.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="pen"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/pen.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="timepicker_up_disabled_focused"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/timepicker_up_disabled_focused.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="rect_pressed"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/rect_pressed.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="eraser"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/eraser.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="eraser_selected"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/eraser_selected.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="bucket_pressed"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/bucket_pressed.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="pencil_disabled"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/pencil_disabled.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="more"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/more.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="timepicker_down_disabled_focused"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/timepicker_down_disabled_focused.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="timepicker_input_selected"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/timepicker_input_selected.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="export"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/export.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="saveas"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/saveas.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="topbar_rightside"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/topbar_rightside.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="eraser_pressed"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/eraser_pressed.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="back_disabled"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/back_disabled.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="forward"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/forward.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="clear"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/clear.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="timepicker_down_disabled"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/timepicker_down_disabled.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="circle_selected"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/circle_selected.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="pencil_pressed"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/pencil_pressed.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="bottombar_bg"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/bottombar_bg.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="iconsmall"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/iconsmall.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="timepicker_down_selected"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/timepicker_down_selected.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="color_pressed"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/color_pressed.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_menu_set_as"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/ic_menu_set_as.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="circle_pressed"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/circle_pressed.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="pencil_selected"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/pencil_selected.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="rect_selected"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/rect_selected.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="pen_selected"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/pen_selected.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="bucket"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/bucket.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="bucket_selected"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/bucket_selected.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="pencil"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/pencil.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="icon"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/icon.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="pen_pressed"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/pen_pressed.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="shapes_pressed"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/shapes_pressed.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="forward_pressed"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/forward_pressed.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="rect"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/rect.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="color"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/color.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="shapes_selected"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/shapes_selected.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="timepicker_input_disabled"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/timepicker_input_disabled.9.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="back"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable-hdpi/back.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="mainmenu"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/menu/mainmenu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="transparentbackrepeat"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable/transparentbackrepeat.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="timepicker_up_btn"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable/timepicker_up_btn.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="rectbutton_bg"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable/rectbutton_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="colorbutton_bg"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable/colorbutton_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="redobutton_bg"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable/redobutton_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="dialogbg"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable/dialogbg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="undobutton_bg"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable/undobutton_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="color_selector"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable/color_selector.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="hex32"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable/hex32.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="linebutton_bg"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable/linebutton_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="hsv32"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable/hsv32.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="penbutton_bg"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable/penbutton_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="circlebutton_bg"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable/circlebutton_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="color_seekselector"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable/color_seekselector.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="pencilbutton_bg"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable/pencilbutton_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="transparentback"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable/transparentback.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="eraserbutton_bg"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable/eraserbutton_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="timepicker_input"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable/timepicker_input.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="bucketbutton_bg"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable/bucketbutton_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="shapesbutton_bg"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable/shapesbutton_bg.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="color_hue"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable/color_hue.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="rgb32"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable/rgb32.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="timepicker_down_btn"
+                path="/home/hugo/git/Pixelesque1/app/src/main/res/drawable/timepicker_down_btn.xml"
+                qualifiers=""
+                type="drawable" />
+        </source>
+        <source path="/home/hugo/git/Pixelesque1/app/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/hugo/git/Pixelesque1/app/src/debug/res" />
+    </dataSet>
+
+</merger>
